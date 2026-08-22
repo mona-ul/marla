@@ -11,6 +11,12 @@ body {
   background-blend-mode: lighten;
 }
 
+#gif{
+  position:fixed; 
+  height: 100%; 
+  width: 100%;
+}
+
 audio {
   position: absolute; 
   top: 50%; 
