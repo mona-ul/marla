@@ -23,7 +23,4 @@ audio {
   left: 50%; 
   transform: translate(-50%, -50%); 
   z-index: 2;
-  #background-color: #0064ff7a;
-  #border: 30px solid #856c6c38;
-  #border-radius: 20px;
 }
